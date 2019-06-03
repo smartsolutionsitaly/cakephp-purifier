@@ -18,7 +18,7 @@
  * @since     1.0.0
  */
 
-namespace SmartSolutionsItaly\CakePHP\Purifier\Behavior;
+namespace SmartSolutionsItaly\CakePHP\Purifier\Model\Behavior;
 
 use ArrayObject;
 use Cake\Core\Configure;
